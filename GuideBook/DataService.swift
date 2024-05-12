@@ -86,7 +86,7 @@ struct DataService {
 
          Originally known as Buckingham House, the building at the core of today's palace was a large townhouse built for the Duke of Buckingham in 1703 on a site that had been in private ownership for at least 150 years. It was acquired by King George III in 1761 as a private residence for Queen Charlotte and became known as The Queen's House. During the 19th century it was enlarged by architects John Nash and Edward Blore, who constructed three wings around a central courtyard. Buckingham Palace became the London residence of the British monarch on the accession of Queen Victoria in 1837.
          """,
-                                            imageName: "buckingham", latLong: "51.50148418749087, -0.1410746109020975")
+                                            imageName: "buckinghham", latLong: "51.50148418749087, -0.1410746109020975")
                               ])
          ]
     }
