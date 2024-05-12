@@ -30,6 +30,20 @@ struct DetailView: View {
                         .bold()
                     Text(attraction.longDescription)
                         .multilineTextAlignment(.leading)
+                    
+                    // add url for maps
+                    
+                    Button{
+                        // open the url
+                    } label: {
+                        ZStack{
+                            RoundedRectangle(cornerRadius: 15)
+                                .foregroundColor(.blue)
+                                .frame(height: 40)
+                            Text("Get Directions")
+                                .foregroundColor(.white)
+                        }
+                    }
                 }
                 .padding(.bottom, 20)
             }
